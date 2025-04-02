@@ -11,7 +11,7 @@ public class Sort {
 		a[i] = a[j];
 		a[j] = temp;
  }
-	static int partition(int[] a, int start, int end) {
+	static int partition(int[] a, int start, int end1) {
  // TODO: partition 알고리즘을 구현해야 함
  }
 
